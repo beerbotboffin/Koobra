@@ -11,6 +11,8 @@ namespace Notes
             InitializeComponent();
         }
 
+        // Adding a change so that I can veridy that the initial commit to github actually worked.
+
         protected override async void OnAppearing()
         {
             base.OnAppearing();
